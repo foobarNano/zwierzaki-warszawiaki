@@ -1,0 +1,39 @@
+# Grav CMS
+/user/
+.cache/
+logs/
+images/
+backup/
+vendor/
+node_modules/
+public/assets/
+public/uploads/
+public/images/
+public/cache/
+public/backup/
+public/logs/
+public/robots.txt
+public/.htaccess
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Systemowe pliki
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Pliki konfiguracyjne
+*.local.yaml
+*.local.yml
+.env
+.env.local
+
+# Inne
+*.log
+*.tmp
+*.bak
+*.swp
